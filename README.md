@@ -101,10 +101,4 @@ SVC performed best and was selected as the final model.
 - Users with higher exit/bounce rates are less likely to purchase.
 - Data is highly imbalanced (majority = no purchase).
 
----
-
-## 🚀 How to Run
-
-```bash
-pip install -r requirements.txt
 python main.py
